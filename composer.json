@@ -1,11 +1,11 @@
 {
-    "name": "tmsllc/laravel-extra-field",
+    "name": "marslankhalid/laravel-extra-field",
     "description": "A package to enable assigning extra fields to Eloquent Models",
     "keywords": [
         "laravel",
         "extra-field"
     ],
-    "homepage": "https://github.com/tmsllc/laravel-extra-field",
+    "homepage": "https://github.com/marslankhalid/laravel-extra-field",
     "license": "MIT",
     "authors": [
         {
